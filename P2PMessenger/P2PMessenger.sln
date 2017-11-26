@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P2PMessenger.Api", "P2PMessenger.Api\P2PMessenger.Api.csproj", "{D8511346-08FA-4906-872F-C471D32E53AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PMessenger.Client", "P2PMessenger.Client\P2PMessenger.Client.csproj", "{9B9B6B5C-7474-47B3-AD18-E8AB0167CDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8511346-08FA-4906-872F-C471D32E53AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8511346-08FA-4906-872F-C471D32E53AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8511346-08FA-4906-872F-C471D32E53AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8511346-08FA-4906-872F-C471D32E53AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9B6B5C-7474-47B3-AD18-E8AB0167CDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9B6B5C-7474-47B3-AD18-E8AB0167CDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9B6B5C-7474-47B3-AD18-E8AB0167CDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9B6B5C-7474-47B3-AD18-E8AB0167CDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488BB5D2-A00E-4C93-9645-1488491B1E23}
+	EndGlobalSection
+EndGlobal
